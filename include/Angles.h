@@ -1,0 +1,1 @@
+double ConvertDegreesToRadians(double angle);
